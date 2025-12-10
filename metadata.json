@@ -1,0 +1,5 @@
+{
+  "name": "Mosaic Master",
+  "description": "A professional image privacy tool allowing users to apply customizable mosaic, blur, and noise effects to local areas of images while preserving original resolution.",
+  "requestFramePermissions": []
+}
